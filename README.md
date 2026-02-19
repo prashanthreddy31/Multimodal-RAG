@@ -33,8 +33,8 @@ A Multimodal RAG system that integrates text and images with LLMs and Embedding 
    2. Clone the repository:
 
       ```bash
-      git clone https://github.com/genieincodebottle/generative-ai.git
-      cd genai-usecases\advance-rag\multimodal-rag
+      git clone https://github.com/prashanthreddy31/Multimodal-RAG
+      cd Multimodal-RAG
       ```
    3. Open the Project in VS Code or any code editor.
    4. Create a virtual environment by running the following command in the terminal:
