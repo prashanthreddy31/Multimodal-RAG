@@ -176,7 +176,7 @@ A Multimodal RAG system that integrates text and images with LLMs and Embedding 
 
 ## ⚡️Performance Tips
 
-1. **Use smaller models** like `gemini-2.0-flash` for better speed
+1. **Use smaller models** for better speed
 2. **Chunk Size**: 1500+ for comprehensive documents, 800-1200 for focused content
 3. **Retrieval Count**: 6-8 for balanced results, 10+ for comprehensive search
 4. **Temperature**: 0.1-0.3 for factual questions, 0.5-1.0 for creative tasks
