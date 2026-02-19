@@ -3,8 +3,8 @@
 ![Multimodal RAG](https://img.shields.io/badge/Multimodal-RAG-blue)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://www.python.org/downloads/)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI_Framework-ff4b4b)
-![Groq](https://img.shields.io/badge/Gemini-LLM_&_Embedding_Model-00bfa5)
-![Huggingface](https://img.shields.io/badge/Embedding_Model-00bfa5)
+![Groq](https://img.shields.io/badge/Groq-LLM-00bfa5)
+![Huggingface](https://img.shields.io/badge/HuggingFace-Embedding_Model-00bfa5)
 [![LangChain](https://img.shields.io/badge/LangChain-AI_Framework-0e76a8.svg)](https://langchain.com/)
 ![ChromaDB](https://img.shields.io/badge/Chroma-Vector_DB-9b59b6)
 
